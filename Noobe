@@ -1,0 +1,7 @@
+{
+  "user_id": "abc123",
+  "name": "Min receptapp",
+  "type": "app", // eller "website"
+  "created": "2025-07-21",
+  "content": "/* kod här */"
+}
